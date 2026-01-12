@@ -5,6 +5,7 @@ Application ViteJS avec Pipeline CI/CD
 ## Description
 
 Application Hello World construite avec ViteJS et React, incluant une pipeline CI complète avec:
+
 - ESLint pour le linting
 - Prettier pour le formatage du code
 - Snyk pour les contrôles de sécurité
@@ -21,8 +22,8 @@ Application Hello World construite avec ViteJS et React, incluant une pipeline C
 ## Pipeline CI
 
 La pipeline CI exécute automatiquement dans l'ordre:
+
 1. Lint (ESLint)
 2. Format Check (Prettier)
 3. Security Scan (Snyk)
 4. Build (ViteJS)
-
